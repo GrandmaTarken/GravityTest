@@ -1,0 +1,24 @@
+.side-menu {	
+	background-color: #818181;
+	border: 3px solid #000000;
+	
+	position: absolute;
+	right: 0px;
+	top: 0px;
+	
+	width: 200px;
+	height: 400px;	
+}
+
+.side-menu h1 {
+	font-size: 25px;
+}
+
+.side-menu p {
+	font-size: 15px;
+}
+
+.inputs {
+	display: flex;
+	justify-content: space-between;
+}
